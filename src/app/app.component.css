@@ -1,0 +1,15 @@
+.correctanswer{
+    background-color: cyan;
+}
+
+.wronganswer{
+    background-color: chocolate
+}
+
+.correctimage{
+    background-color: greenyellow
+}
+
+.wrongimage{
+background-color: coral
+}
